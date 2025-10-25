@@ -1,8 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
-
+# Date :25.10.2025
+# Reg. No. 212223100055
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
 
@@ -48,8 +47,36 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+# Prompt 1
+```A high-resolution photograph of majestic snow-capped mountains at dawn, with warm golden rays illuminating the jagged peaks. A serene, winding river gracefully reflects the morning light and the sky, flowing through a vibrant green valley dense with verdant pine forests. The scene captures a peaceful and epic natural landscape, shot with a wide-angle lens for grand perspective.
+``` 
+
+# Original Image
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/53b04d5a-639e-400c-bfee-265d14b5b6b2" />
+
+
+# Generated Image
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ba752a6-f1fe-4222-8fdc-44b257d9e2a6" />
+
+
+
+# Prompt 2
+```A serene, high-resolution photograph of a meticulously designed traditional Japanese garden during spring, featuring abundant, soft pink cherry blossoms arching gracefully overhead. A vibrant, arched red wooden bridge spans a crystal-clear koi pond filled with colorful koi fish. Elegant stone lanterns are subtly placed amongst perfectly manicured azalea bushes and sculpted pine trees, with a winding stone pathway guiding the eye. The morning light casts a gentle, ethereal glow over the entire tranquil scene, capturing the essence of Japanese aesthetic beauty.
+```
+
+
+# Original image
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5b88d8fc-e8b9-43cd-8f57-690ebf3a8f96" />
+
+
+
+# Generated image
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/97080675-d455-4cf3-be70-2afcec9ef2ab" />
+
+
+
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
