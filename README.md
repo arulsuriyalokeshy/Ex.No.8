@@ -48,7 +48,8 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
 # Prompt 1
-```A high-resolution photograph of majestic snow-capped mountains at dawn, with warm golden rays illuminating the jagged peaks. A serene, winding river gracefully reflects the morning light and the sky, flowing through a vibrant green valley dense with verdant pine forests. The scene captures a peaceful and epic natural landscape, shot with a wide-angle lens for grand perspective.
+```
+A high-resolution photograph of majestic snow-capped mountains at dawn, with warm golden rays illuminating the jagged peaks. A serene, winding river gracefully reflects the morning light and the sky, flowing through a vibrant green valley dense with verdant pine forests. The scene captures a peaceful and epic natural landscape, shot with a wide-angle lens for grand perspective.
 ``` 
 
 # Original Image
@@ -61,7 +62,8 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 
 
 # Prompt 2
-```A serene, high-resolution photograph of a meticulously designed traditional Japanese garden during spring, featuring abundant, soft pink cherry blossoms arching gracefully overhead. A vibrant, arched red wooden bridge spans a crystal-clear koi pond filled with colorful koi fish. Elegant stone lanterns are subtly placed amongst perfectly manicured azalea bushes and sculpted pine trees, with a winding stone pathway guiding the eye. The morning light casts a gentle, ethereal glow over the entire tranquil scene, capturing the essence of Japanese aesthetic beauty.
+```
+A serene, high-resolution photograph of a meticulously designed traditional Japanese garden during spring, featuring abundant, soft pink cherry blossoms arching gracefully overhead. A vibrant, arched red wooden bridge spans a crystal-clear koi pond filled with colorful koi fish. Elegant stone lanterns are subtly placed amongst perfectly manicured azalea bushes and sculpted pine trees, with a winding stone pathway guiding the eye. The morning light casts a gentle, ethereal glow over the entire tranquil scene, capturing the essence of Japanese aesthetic beauty.
 ```
 
 
